@@ -146,10 +146,8 @@ while 1:
 ```
 
 ## Output: 
-server.py
-<img width="1243" height="967" alt="Screenshot 2026-05-12 141052" src="https://github.com/user-attachments/assets/04e5753d-69e9-4050-8263-287a6e0e8a11" />
-client.py
-<img width="1225" height="948" alt="Screenshot 2026-05-12 141108" src="https://github.com/user-attachments/assets/9652b2e3-6687-44c9-a535-2e30428e4b07" />
+<img width="1745" height="930" alt="image" src="https://github.com/user-attachments/assets/d89db531-be75-495f-8c1f-0d7f51bc13a5" />
+
 
 ## Result:
 
